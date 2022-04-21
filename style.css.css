@@ -1,0 +1,25 @@
+p {
+font-size: 24px;
+}
+.text-bold {
+font-weight: bold;
+}
+.text-dark {
+color: #333333;
+}
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+
+
+.quote-author {
+  display: block;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: right;
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+}
